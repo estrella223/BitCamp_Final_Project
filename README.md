@@ -1,5 +1,5 @@
 # BitCamp_Final_Project
-<b>메인화면</b>
+<b>메인화면</b><br>
 ![WITH CLASS 메인화면](https://user-images.githubusercontent.com/89093279/147445235-b7d68814-764e-4e9b-a571-561e1c834681.jpeg)<br>
 <b>전체 카테고리 + 페이징</b>
 ![WITH CLASS 전체 카테고리](https://user-images.githubusercontent.com/89093279/147445254-40ca3687-5f9b-41cc-b92f-0f1141d08618.jpeg)<br>
