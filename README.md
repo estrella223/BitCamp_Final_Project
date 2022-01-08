@@ -13,6 +13,9 @@
 * MySQL
 * Bootstrap
 
+### DB설계<br/>
+![그림01](https://user-images.githubusercontent.com/89093279/148654356-1e4451f8-ce0e-45be-bc6e-329decbeb862.jpg)<br/>
+
 ### 실행 화면
 * 메인화면<br/>
 ![WITH CLASS 메인화면](https://user-images.githubusercontent.com/89093279/147445235-b7d68814-764e-4e9b-a571-561e1c834681.jpeg)<br/>
